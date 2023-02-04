@@ -1,2 +1,2 @@
 # DesignPatternLLD
-Design Pattern implemkentations
+Design Pattern implementations
